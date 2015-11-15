@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\wkohusjr\Documents\UC Folders\Fall 2015\MDP\Workspace\MealSpotting\caches\modules-2\files-2.1\com.parse\parse-android\1.10.3\36366e460af2c0f224bb8f70b64e3302f638b138\parse-android-1.10.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="36366e460af2c0f224bb8f70b64e3302f638b138">
+        <dex dex="D:\GitHub\qrApplication\app\build\intermediates\pre-dexed\debug\parse-android-1.10.3-62f3053a963718e5574e04de62c64c6c7f48be3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\wkohusjr\Documents\UC Folders\Fall 2015\MDP\Workspace\MealSpotting\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="D:\GitHub\qrApplication\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.3.0-f906814fe01fae864d74cc46787b28354079fa14.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\qrApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\GitHub\qrApplication\app\build\intermediates\pre-dexed\debug\classes-783870333869cba65becbf9d05d9a871f8f99ca9.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\qrApplication\app\libs\universal-image-loader-1.8.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e7ef87542d4b8aba15b4038db99ec2b71e9945a0">
+        <dex dex="D:\GitHub\qrApplication\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.2-3d5a603f38f4c1481e4a57c90604a5e92e1aadfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\wkohusjr\Documents\UC Folders\Fall 2015\MDP\Workspace\MealSpotting\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="D:\GitHub\qrApplication\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.3.0-71429cf74cc2ef1f58a95ecc8cdf41848b008297.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\qrApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\GitHub\qrApplication\app\build\intermediates\pre-dexed\debug\classes-35fcd705a0f90ff97206b5f50caf5d7a2239aaf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\wkohusjr\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\GitHub\qrApplication\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-4ed7ba55a809d9a62d841f7e02cc84a4fae274a9.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\qrApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\GitHub\qrApplication\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-e4fd3a91fe81c58c9c40ef2deb9974c28cdbeb1b.jar" />
+    </item>
+
+</items>
